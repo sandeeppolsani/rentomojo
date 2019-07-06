@@ -1,0 +1,21 @@
+{
+  "name": "rentmojo",
+  "version": "1.0.0",
+  "description": "rentmojo",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "rentmojo",
+    "comments"
+  ],
+  "author": "sandeep",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.3",
+    "nodemon": "^1.19.1"
+  }
+}
